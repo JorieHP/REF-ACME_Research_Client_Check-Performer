@@ -4,7 +4,11 @@
   "description": "Research Client Check Project using REF",
   "main": "Main.xaml",
   "dependencies": {
+    "ACME_Login_Library": "[1.0.4]",
+    "ACME_System3_Login": "[1.0.2]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.26.0-preview]",
     "UiPath.Excel.Activities": "[2.23.2-preview]",
+    "UiPath.IntelligentOCR.Activities": "[6.17.0-preview]",
     "UiPath.System.Activities": "[24.2.0-preview]",
     "UiPath.Testing.Activities": "[24.2.0-preview]",
     "UiPath.UIAutomation.Activities": "[24.2.0-preview]"
